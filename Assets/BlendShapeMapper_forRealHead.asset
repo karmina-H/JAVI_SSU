@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b4786b6f0956b84dbac08f12d712289, type: 3}
+  m_Name: BlendShapeMapper_forRealHead
+  m_EditorClassIdentifier: 
+  m_Mappings:
+  - m_From: BrowDownLeft
+    m_To: A02_Brow_Down_Left
+  - m_From: BrowDownRight
+    m_To: A03_Brow_Down_Left
+  - m_From: BrowInnerUp
+    m_To: A01_Brow_Inner_Up
+  - m_From: BrowOuterUpLeft
+    m_To: A04_Brow_Outer_Up_Left
+  - m_From: BrowOuterUpRight
+    m_To: A05_Brow_Outer_Up_Left
+  - m_From: EyeSquintLeft
+    m_To: A16_Eye_Squint_Left
+  - m_From: EyeSquintRight
+    m_To: A16_Eye_Squint_Right
+  - m_From: EyeWideLeft
+    m_To: A18_Eye_Wide_Left
+  - m_From: EyeWideRight
+    m_To: A19_Eye_Wide_Right
+  - m_From: EyeBlinkLeft
+    m_To: A14_Eye_Blink_Left
+  - m_From: EyeBlinkRight
+    m_To: A15_Eye_Blink_Right
+  - m_From: JawForward
+    m_To: A26_Jaw_Forward
+  - m_From: JawLeft
+    m_To: A27_Jaw_Left
+  - m_From: JawRight
+    m_To: A28_Jaw_Right
+  - m_From: EyeLookDownLeft
+    m_To: A08_Eye_Look_Down_Left
+  - m_From: EyeLookInLeft
+    m_To: A11_Eye_Look_In_Left
+  - m_From: EyeLookOutLeft
+    m_To: A10_Eye_Look_Out_Left
+  - m_From: EyeLookUpLeft
+    m_To: A06_Eye_Look_Up_Left
+  - m_From: EyeLookDownRight
+    m_To: A09_Eye_Look_Down_Right
+  - m_From: EyeLookInRight
+    m_To: A12_Eye_Look_In_Right
+  - m_From: EyeLookOutRight
+    m_To: A13_Eye_Look_Out_Right
+  - m_From: EyeLookUpRight
+    m_To: A07_Eye_Look_Up_Right
+  - m_From: JawOpen
+    m_To: A25_Jaw_Open
+  - m_From: MouthClose
+    m_To: A37_Mouth_Close
+  - m_From: MouthFunnel
+    m_To: A29_Mouth_Funnel
+  - m_From: MouthPucker
+    m_To: A30_Mouth_Pucker
+  - m_From: MouthLeft
+    m_To: A31_Mouth_Left
+  - m_From: MouthRight
+    m_To: A32_Mouth_Right
+  - m_From: MouthSmileLeft
+    m_To: A38_Mouth_Smile_Left
+  - m_From: MouthSmileRight
+    m_To: A39_Mouth_Smile_Right
+  - m_From: MouthFrownLeft
+    m_To: A40_Mouth_Frown_Left
+  - m_From: MouthFrownRight
+    m_To: A41_Mouth_Frown_Right
+  - m_From: MouthDimpleLeft
+    m_To: A42_Mouth_Dimple_Left
+  - m_From: MouthDimpleRight
+    m_To: A43_Mouth_Dimple_Right
+  - m_From: MouthStretchLeft
+    m_To: A50_Mouth_Stretch_Left
+  - m_From: MouthStretchRight
+    m_To: A51_Mouth_Stretch_Right
+  - m_From: MouthRollLower
+    m_To: A34_Mouth_Roll_Lower
+  - m_From: MouthRollUpper
+    m_To: A33_Mouth_Roll_Upper
+  - m_From: MouthShrugLower
+    m_To: A36_Mouth_Shrug_Lower
+  - m_From: MouthShrugUpper
+    m_To: A35_Mouth_Shrug_Upper
+  - m_From: MouthPressLeft
+    m_To: A48_Mouth_Press_Left
+  - m_From: MouthPressRight
+    m_To: A49_Mouth_Press_Right
+  - m_From: MouthLowerDownLeft
+    m_To: A46_Mouth_Lower_Down_Left
+  - m_From: MouthLowerDownRight
+    m_To: A47_Mouth_Lower_Down_Right
+  - m_From: MouthUpperUpLeft
+    m_To: A44_Mouth_Upper_Up_Left
+  - m_From: MouthUpperUpRight
+    m_To: A43_Mouth_Upper_Up_Right
+  - m_From: CheekPuff
+    m_To: A20_Cheek_Puff
+  - m_From: CheekSquintLeft
+    m_To: A21_Cheek_Squint_Left
+  - m_From: CheekSquintRight
+    m_To: A22_Cheek_Squint_Right
+  - m_From: NoseSneerLeft
+    m_To: A23_Nose_Sneer_Left
+  - m_From: NoseSneerRight
+    m_To: A24_Nose_Sneer_Right
+  - m_From: TongueOut
+    m_To: A52_Tongue_Out
+  - m_From: HeadYaw
+    m_To: headYaw
+  - m_From: HeadPitch
+    m_To: headPitch
+  - m_From: HeadRoll
+    m_To: headRoll
+  - m_From: EyeYawLeft
+    m_To: eyeYawLeft
+  - m_From: EyePitchLeft
+    m_To: eyePitchLeft
+  - m_From: EyeRollLeft
+    m_To: eyeRollLeft
+  - m_From: EyeYawRight
+    m_To: eyeYawRight
+  - m_From: EyePitchRight
+    m_To: eyePitchRight
+  - m_From: EyeRollRight
+    m_To: eyeRollRight
